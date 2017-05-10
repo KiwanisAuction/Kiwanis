@@ -1,0 +1,645 @@
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowR.png
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowL.png
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.rpt
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsd
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.vb
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.Designer.vb
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.vb
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsc
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xss
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KAapp.config
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.Framework.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.AssignItemToBlock.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Auctioneer.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Block.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Item.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Main.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Resources.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.BiddingHistory.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KBMApplication.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KDMApplication.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.vbproj.GenerateResource.Cache
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowR.png
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowL.png
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.rpt
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsd
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.vb
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.Designer.vb
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.vb
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsc
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xss
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KAapp.config
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.Framework.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.AssignItemToBlock.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Auctioneer.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Block.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Item.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Main.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Resources.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.BiddingHistory.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KBMApplication.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KDMApplication.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.vbproj.GenerateResource.Cache
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.xml
+D:\Users\Steve\Desktop\KAWANIS\Kiwanis Auction 2011 2_11_2011 SRW\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.pdb
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowR.png
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowL.png
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.rpt
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsd
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.vb
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.Designer.vb
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.vb
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsc
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xss
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KAapp.config
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.application
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.pdb
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.Framework.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.AssignItemToBlock.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Auctioneer.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Block.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Item.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Main.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Resources.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.BiddingHistory.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KBMApplication.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KDMApplication.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.vbproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.application
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe
+C:\Users\Steve\Desktop\Kiwanis Auction 2011\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.pdb
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.pdb
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowR.png
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowL.png
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.rpt
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsd
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.vb
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.Designer.vb
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.vb
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsc
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xss
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KAapp.config
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.application
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.pdb
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.Framework.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.AssignItemToBlock.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Auctioneer.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Block.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Item.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Main.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Resources.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.BiddingHistory.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KBMApplication.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KDMApplication.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.vbproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+C:\Users\Steve\Desktop\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowR.png
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowL.png
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.rpt
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsd
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.vb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.Designer.vb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.vb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsc
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xss
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KAapp.config
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.Framework.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.AssignItemToBlock.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Auctioneer.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Block.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Item.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Main.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Resources.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.BiddingHistory.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KBMApplication.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KDMApplication.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.vbproj.GenerateResource.Cache
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowR.png
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowL.png
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.rpt
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsd
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.vb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.Designer.vb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.vb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsc
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xss
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KAapp.config
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.Framework.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.AssignItemToBlock.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Auctioneer.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Block.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Item.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Main.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Resources.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.BiddingHistory.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KBMApplication.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KDMApplication.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.vbproj.GenerateResource.Cache
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.ReportForm.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowR.png
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowL.png
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.rpt
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsd
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\CrystalReport1.vb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.Designer.vb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.vb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xsc
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\DataSet1.xss
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KAapp.config
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.Framework.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.AssignItemToBlock.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Auctioneer.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Block.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Item.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Main.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Resources.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.BiddingHistory.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KBMApplication.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KDMApplication.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.ReportForm.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.vbproj.GenerateResource.Cache
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.pdb
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowR.png
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowL.png
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KAapp.config
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.application
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.pdb
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.Framework.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.AssignItemToBlock.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Auctioneer.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Block.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Item.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Main.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Resources.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.BiddingHistory.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KBMApplication.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KDMApplication.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.ReportForm.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.vbproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.application
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe
+C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.pdb
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowR.png
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowL.png
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KAapp.config
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.application
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.pdb
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.Framework.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.AssignItemToBlock.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Auctioneer.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Block.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Item.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Main.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Resources.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.BiddingHistory.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KBMApplication.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KDMApplication.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.ReportForm.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.vbproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.application
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe
+C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.pdb
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowR.png
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowL.png
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KAapp.config
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.application
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.pdb
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.Framework.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.VSDesigner.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Web.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Web.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.AssignItemToBlock.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Auctioneer.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Block.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Item.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Main.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Resources.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.BiddingHistory.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.FixBid.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KBMApplication.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KDMApplication.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.ReportForm.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.vbproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.application
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe
+C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.pdb
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowR.png
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowL.png
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KAapp.config
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.application
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.pdb
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.Framework.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.VSDesigner.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Web.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\mscorcfg.dll
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Web.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.AssignItemToBlock.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Auctioneer.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Block.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Item.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Main.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Resources.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.BiddingHistory.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.FixBid.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KBMApplication.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KDMApplication.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.ReportForm.resources
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResGen.read.1.tlog
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResGen.write.1.tlog
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.application
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe
+C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowR.png
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\ArrowL.png
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KAapp.config
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\bin\Release\CrystalDecisions.VSDesigner.dll
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.AssignItemToBlock.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Auctioneer.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Block.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Item.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.KiwanisMem.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Main.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Resources.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.BiddingHistory.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.FixBid.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Bidder.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Donor.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\Kiwanis.Reports.resources
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResGen.read.1.tlog
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\ResGen.write.1.tlog
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\obj\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\bin\Release\Resources\ArrowR.png
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\bin\Release\Resources\ArrowL.png
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\bin\Release\KAapp.config
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\bin\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\bin\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\bin\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\bin\Release\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\bin\Release\CrystalDecisions.VSDesigner.dll
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.AssignItemToBlock.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.Auctioneer.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.Block.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.Item.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.KiwanisMem.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.Main.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.Resources.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.BiddingHistory.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.FixBid.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.Bidder.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.Donor.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\Kiwanis.Reports.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\ResGen.read.1.tlog
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\ResGen.write.1.tlog
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\obj\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\Resources\ArrowR.png
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\Resources\ArrowL.png
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\KAapp.config
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\KawanisAuction2011.pdb
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\Kiwanis.Main.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\Kiwanis.Resources.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\ResGen.read.1.tlog
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\ResGen.write.1.tlog
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\KawanisAuction2011.application
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\KawanisAuction2011.exe
+D:\Users\Steve\Desktop\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\KawanisAuction2011.pdb
+G:\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\KawanisAuction2011.exe.config
+G:\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\KawanisAuction2011.exe
+G:\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\KawanisAuction2011.pdb
+G:\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\Resources\ArrowR.png
+G:\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\Resources\ArrowL.png
+G:\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+G:\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\KAapp.config
+G:\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\KawanisAuction2011.exe.manifest
+G:\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\KawanisAuction2011.application
+G:\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\KawanisAuction2011.exe
+G:\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\KawanisAuction2011.pdb
+G:\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+G:\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+G:\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\Kiwanis.Main.resources
+G:\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\Kiwanis.Resources.resources
+G:\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+G:\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\ResGen.read.1.tlog
+G:\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\ResGen.write.1.tlog
+G:\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\KawanisAuction2011.TrustInfo.xml
+G:\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\KawanisAuction2011.exe.manifest
+G:\2012 Kiwanis Auction Billboard\Kiwanis\obj\Release\KawanisAuction2011.application
+G:\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\CrystalDecisions.Data.AdoDotNetInterop.dll
+G:\2012 Kiwanis Auction Billboard\Kiwanis\bin\Release\CrystalDecisions.VSDesigner.dll
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\bin\Release\KawanisBillboard2013.exe.config
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\bin\Release\Resources\ArrowR.png
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\bin\Release\Resources\ArrowL.png
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\bin\Release\Resources\KiwanisGavel1.bmp
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\bin\Release\KAapp.config
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\bin\Release\KawanisBillboard2013.exe.manifest
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\bin\Release\KawanisBillboard2013.application
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\bin\Release\KawanisBillboard2013.exe
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\bin\Release\KawanisBillboard2013.pdb
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\obj\Release\Kiwanis.K_DBCC.resources
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\obj\Release\Kiwanis.Main.resources
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\obj\Release\Kiwanis.Resources.resources
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\obj\Release\Kiwanis.PlaceBid.resources
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\obj\Release\ResGen.read.1.tlog
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\obj\Release\ResGen.write.1.tlog
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\obj\Release\KawanisBillboard2013.TrustInfo.xml
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\obj\Release\KawanisBillboard2013.exe.manifest
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\obj\Release\KawanisBillboard2013.application
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\obj\Release\KawanisBillboard2013.exe
+C:\Users\Miyagi\Documents\BillboardTest\2013Billboard\Kiwanis\obj\Release\KawanisBillboard2013.pdb
+C:\Users\Miyagi\Documents\BillboardTest\2013 billboard app project\2013Billboard\Kiwanis\bin\Release\KawanisBillboard2013.exe.config
+C:\Users\Miyagi\Documents\BillboardTest\2013 billboard app project\2013Billboard\Kiwanis\obj\Release\KawanisBillboard2013.exe
+C:\Users\Miyagi\Documents\BillboardTest\2013 billboard app project\2013Billboard\Kiwanis\obj\Release\KawanisBillboard2013.pdb
