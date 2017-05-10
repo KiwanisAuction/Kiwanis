@@ -1,0 +1,24 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Program Files (x86)\Business Objects\Common\2.8\managed\D:\Program Files\Business Objects\Common\2.8\managed\C:\Program Files\Business Objects\Common\2.8\managed\</ReferencePath>
+    <PublishUrlHistory>C:\Users\Steve\Desktop\Kiwanis Auction 3_1_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\publish\|C:\Users\Steve\Desktop\Kiwanis Auction 2_28_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\publish\|C:\Users\Steve\Desktop\Kiwanis Auction 2_27_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\publish\|D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X1\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\publish\|D:\Users\Steve\Desktop\Kiwanis Auction 2_23_2011 SRW X\Kiwanis Auction 2_22_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\publish\</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartWorkingDirectory>C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartWorkingDirectory>C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

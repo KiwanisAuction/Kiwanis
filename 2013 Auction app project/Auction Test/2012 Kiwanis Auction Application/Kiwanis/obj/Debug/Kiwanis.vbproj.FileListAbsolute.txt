@@ -1,0 +1,55 @@
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\Resources\KICON.ico
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\Resources\CrystalReport1.rpt
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\Resources\DataSet1.xsd
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\Resources\CrystalReport1.vb
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\Resources\DataSet1.Designer.vb
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\Resources\DataSet1.vb
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\Resources\DataSet1.xsc
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\Resources\DataSet1.xss
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\Resources\arrow-heart-shaped-left.png
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\Resources\arrow-heart-shaped-left - Copy.png
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\Resources\ArrowR.png
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\Resources\ArrowL.png
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\Resources\KiwanisGavel1.bmp
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\KAapp.config
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\KawanisAuction.exe.config
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\KawanisAuction.exe.manifest
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\KawanisAuction.application
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\KawanisAuction.exe
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\KawanisAuction.pdb
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\Application Build Folder\KawanisAuction.xml
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\bin\Release\KawanisAuction.exe.config
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\bin\Debug\KawanisAuction.exe.config
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Resources\KICON.ico
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Resources\CrystalReport1.rpt
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Resources\DataSet1.xsd
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Resources\CrystalReport1.vb
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Resources\DataSet1.Designer.vb
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Resources\DataSet1.vb
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Resources\DataSet1.xsc
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Resources\DataSet1.xss
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Resources\arrow-heart-shaped-left.png
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Resources\arrow-heart-shaped-left - Copy.png
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Resources\ArrowR.png
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Resources\ArrowL.png
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Resources\KiwanisGavel1.bmp
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\KAapp.config
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\KawanisAuction.exe.config
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\KawanisAuction.exe.manifest
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\KawanisAuction.application
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\KawanisAuction.exe
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\KawanisAuction.pdb
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\KawanisAuction.xml
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\CrystalDecisions.Enterprise.Framework.dll
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\CrystalDecisions.ReportSource.dll
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\CrystalDecisions.Shared.dll
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\CrystalDecisions.Windows.Forms.dll
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Microsoft.ReportViewer.Common.dll
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\CrystalDecisions.CrystalReports.Engine.xml
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\CrystalDecisions.Windows.Forms.xml
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\CrystalDecisions.Shared.xml
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\Microsoft.ReportViewer.WinForms.xml
+D:\Users\Steve\Desktop\KAWANIS\2011_AuctionApp V002\2011_AuctionApp\Working Ver Auction App_20100224_NM\Kiwanis\obj\Release\CrystalDecisions.ReportSource.xml

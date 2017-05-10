@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\;C:\Program Files (x86)\Business Objects\Common\2.8\managed\D:\Program Files\Business Objects\Common\2.8\managed\C:\Program Files\Business Objects\Common\2.8\managed\</ReferencePath>
+    <PublishUrlHistory>C:\Users\Public\Documents\Auction Test\working directory\publish\|C:\Users\Public\Documents\Auction Test\working directory\|D:\Users\Steve\Desktop\2012 Kiwanis Auction Application\Kiwanis\publish\|C:\Users\Miyagi\Documents\Globaltso\JCH eng\JohnAuctionTest3\|C:\Users\Miyagi\Documents\Globaltso\JCH eng\JohnAuctionTest2\</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartWorkingDirectory>C:\Users\Public\Documents\Auction Test\working directory\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartWorkingDirectory>C:\Users\Steve\Desktop\Kiwanis Auction 5_6_2011 SRW\2011_AuctionApp\Working Ver Auction App_2011\Kiwanis\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>
